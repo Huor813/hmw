@@ -1,0 +1,141 @@
+body{font-family: 'Prosto One', sans-serif;}
+
+
+
+/* Header Parallax Element Style*/ 
+.paral {
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+    }
+
+    /* Paragraph for Parallax Section */ 
+.paral li {
+    list-style-type: none;
+    font-size: 24px;
+    color:#ffffff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    line-height: 60px;
+    background-color : rgba(112, 112, 112, 0);
+    }
+
+     
+    /* Heading for Parallax Section */ 
+.head{
+    color: #ffffff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 200px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 100px;
+    }
+    .paral h1 {
+    color: #ffffff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 70px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 100px;
+    max-width: 100%;
+    }
+
+h1 {
+    color: #ffffff;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    font-size: 200px;
+    text-align: center;
+    padding-top: 60px;
+    line-height: 100px;
+    word-wrap: break-word;
+}
+
+    .paralsec {
+        background-image: url("img/head.jpg");
+        }
+         
+        .paralsec1 {
+        background-image: url("img/biere01.jpg");}
+         
+        .paralsec2 {
+        background-image: url("img/biere02.jpg");
+        }
+
+        .paralsec3 {
+        background-image: url("img/biere03.jpg")
+        }
+
+        .paralsec4 {
+        background-image: url("img/biere04.jpg")
+        }
+
+        .paralsec5 {
+        background-image: url("img/biere05.jpg")
+        }
+
+        .paralsec6 {
+        background-image: url("img/biere06.jpg")
+        }
+
+        .paralsec7 {
+        background-image: url("img/biere07.jpg")
+        }
+        
+        .paralsec8 {
+        background-image: url("img/biere08.jpg")
+        }
+
+        .paralsec9 {
+        background-image: url("img/biere09.jpg")
+        }
+
+        .paralsec10 {
+        background-image: url("img/biere10.jpg")
+        }
+
+        .paralsec11 {
+        background-image: url("img/biere11.jpg")
+        }
+
+        .paralsec12 {
+        background-image: url("img/biere12.jpg");
+        }
+
+        .paralsec13 {
+        background-image: url("img/biere13.jpg");
+        }
+
+        .paralsec14 {
+        background-image: url("img/biere14.jpg")
+        }
+
+        .paralsec15 {
+        background-image: url("img/biere15.jpg")
+        }
+
+        .paralsec16 {
+        background-image: url("img/biere16.jpg")
+        }
+
+        .paralsec17 {
+        background-image: url("img/biere17.jpg")
+        }
+
+        .paralsec18 {
+        background-image: url("img/biere18.jpg")
+        }
+
+        .paralsec19 {
+        background-image: url("img/biere19.jpg")
+        }
+
+        .paralsec20 {
+        background-image: url("img/biere20.jpg")
+        }
+
+        .paralsec21 {
+        background-image: url("img/biere21.jpg")
+        }
+
+        /* Remove Bottom Margin from Jumbotron */
+.jumbotron{margin-bottom: 0;}
